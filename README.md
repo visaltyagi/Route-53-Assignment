@@ -7,3 +7,5 @@ You work for XYZ Corporation that uses on premise solutions and some limited num
 Tasks To Be Performed: 
 1. Use the Route 53 hosted zone created in the assignment. 
 2. Route the traffic to an EC2 instance with an Apache web server running in it using its IP address.
+
+**For the detailed solution, please check this link: ** https://medium.com/devops-guides/how-to-register-a-route-53-domain-route-the-ec2-instance-traffic-to-it-route-53-assignment-6e2104d68c57
